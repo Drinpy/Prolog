@@ -6,11 +6,10 @@ pai(gael, andre).
 pai(diniz, diane).
 pai(andre, arena).
 
-mae(leticia, natalia).
 mae(jade, gael).
+mae(leticia, natalia).
 mae(ana, diniz).
 mae(patricia, vitoria).
 mae(natalia, andre).
 mae(vitoria, diane).
 mae(diane, arena).
-
