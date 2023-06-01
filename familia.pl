@@ -37,7 +37,7 @@ neto(Z,Y):-avoM(Y,Z).
 
 tio(Z,Y):-irmao(Z,X),pai(X,Y).
 
-primo(Z,Y):-tio(X,Y),pai(X,Z).
+primo(Z,Y):-tio(P,Y),pai(P,Z).
 
 
 
